@@ -2,7 +2,7 @@ from translate import Translator
 import requests
 from collections import defaultdict
 
-qwestions = {'Как тебя зовут' : "Я супер-крутой-бот и мое ппредназначение помогать тебе!",
+qwestions = {'Как тебя зовут' : "Я супер-крутой-бот и мое предназначение помогать тебе!",
              "Сколько тебе лет" : "Это слишком философский вопрос"}
 
 class TextAnalysis():   
